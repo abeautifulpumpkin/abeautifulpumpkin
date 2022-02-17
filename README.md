@@ -1,0 +1,4 @@
+- 🎃 Hi, I’m @abeautifulpumpkin 
+- 🦀 I’m interested in Linux, FreeBSD, ZFS, Rust, Scala, and more and more Go.
+- 🤩 I’m currently learning stacks & techs irrelevant to my life but that are interesting anyway. 
+- 🐛 I’m looking to collaborate on any project I use instead of just using them w/o contributing.
